@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city1">
+        <item>安阳</item>
+        <item>鞍山</item>
+        <item>北京</item>
+        <item>北海</item>
+        <item>保定</item>
+    </string-array>
+    <string-array name="city2">
+        <item>anyang</item>
+        <item>anshan</item>
+        <item>beijing</item>
+        <item>beihai</item>
+        <item>baoding</item>
+    </string-array>
+</resources>

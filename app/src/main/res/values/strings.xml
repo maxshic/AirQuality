@@ -3,4 +3,13 @@
     <string name="city_name">常熟</string>
     <string name="city_choose">选择城市...</string>
     <string name="about">关于</string>
+    <string name="about_message">
+        关于空气质量应用\n
+        版本1.0\n
+        数据来源:http://www.pm25.in/api_doc\n\n
+        作者：石冲\n
+        学号：Z09414228\n
+        常熟理工学院\n
+        2017.4
+    </string>
 </resources>
